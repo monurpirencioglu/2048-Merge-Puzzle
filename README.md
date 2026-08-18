@@ -4,9 +4,10 @@ A tropical merge puzzle for Android, built solo in Unity.
 Tiles merge only when **both value and color match** — a single rule change that turns a familiar mechanic into a planning problem.
 
 <p align="center">
-  <img src="docs/screen-gameplay.png" width="240" alt="Gameplay Screen">
-  <img src="docs/screen-home.png" width="240" alt="Home Screen">
-  <img src="docs/screen-win.png" width="240" alt="Win Screen">
+  <img src="docs/screen-gameplay.png" width="200" alt="Gameplay Screen">
+  <img src="docs/screen-home.png" width="200" alt="Home Screen">
+  <img src="docs/screen-win.png" width="200" alt="Win Screen">
+  <img src="docs/screen-gameplay1.png" width="200" alt="Gameplay Screen">
 </p>
 
 > This is a showcase repository. The full game source code is private — selected systems are included below to illustrate the technical approach and pipeline.
